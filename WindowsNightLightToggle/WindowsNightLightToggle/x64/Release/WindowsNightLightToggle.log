@@ -1,0 +1,8 @@
+﻿  WindowsNightLightToggle.cpp
+C:\Users\Antho\Documents\Visual Studio Projects\WindowsNightLightToggle\WindowsNightLightToggle\WindowsNightLightToggle.cpp(114,22): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 374 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WindowsNightLightToggle.vcxproj -> C:\Users\Antho\Documents\Visual Studio Projects\WindowsNightLightToggle\x64\Release\WindowsNightLightToggle.exe
